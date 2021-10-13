@@ -1,0 +1,10 @@
+mkdir nomepasta
+
+dotnet new sln
+dotnet new classlib - cria as classlibrary
+dotnet new mstest - cria o project de tester
+
+dotnet sln add past/nomeprojeto - adiciona no projeto
+
+dotnet add reference ..\PaymentContext.Shared\PaymentContext.Shared.csproj
+adicionando referencia no projeto
