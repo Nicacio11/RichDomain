@@ -8,3 +8,6 @@ dotnet sln add past/nomeprojeto - adiciona no projeto
 
 dotnet add reference ..\PaymentContext.Shared\PaymentContext.Shared.csproj
 adicionando referencia no projeto
+
+
+dotnet test - para testar
